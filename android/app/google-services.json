@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "34373897348",
+    "firebase_url": "https://some-project-8d527.firebaseio.com",
+    "project_id": "some-project-8d527",
+    "storage_bucket": "some-project-8d527.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34373897348:android:7a2f45f8674f5b8e",
+        "android_client_info": {
+          "package_name": "com.blaze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34373897348-pjul6ct3rt38feljui2q52ks63rc4nak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGZ9tXCRJMmXJHNBJCSVddjydG7pV6bPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34373897348-pjul6ct3rt38feljui2q52ks63rc4nak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
